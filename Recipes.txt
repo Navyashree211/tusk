@@ -7,3 +7,6 @@ Pasta
 Tea
 Coffee
 Ice-Cream
+
+
+Chicken fry
