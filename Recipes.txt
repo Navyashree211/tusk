@@ -8,6 +8,9 @@ Tea
 Coffee
 Ice-Cream
 
+veg roll
+pizza
+
 
 Chicken fry
 
